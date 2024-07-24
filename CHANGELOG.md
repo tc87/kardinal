@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.4](https://github.com/kurtosis-tech/kardinal/compare/0.1.3...0.1.4) (2024-07-24)
+
+
+### Features
+
+* added a dashboard cmd that opens the kardinal dashboard in the browser ([#36](https://github.com/kurtosis-tech/kardinal/issues/36)) ([741e2e5](https://github.com/kurtosis-tech/kardinal/commit/741e2e54f1a5676f58d0e1abb054fa7235fd3b64))
+
+
+### Bug Fixes
+
+* better error message if dashboard doesnt open ([#38](https://github.com/kurtosis-tech/kardinal/issues/38)) ([ce8804b](https://github.com/kurtosis-tech/kardinal/commit/ce8804b25294e830a900c0d0f905dd262d08ad22))
+
 ## [0.1.3](https://github.com/kurtosis-tech/kardinal/compare/0.1.2...0.1.3) (2024-07-12)
 
 
